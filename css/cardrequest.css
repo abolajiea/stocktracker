@@ -1,0 +1,42 @@
+body {
+    color:rgb(53, 31, 31);
+    margin: 0;
+    padding: 0;
+    background: url(../images/CARD\ LOG\ ON.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.menu-bar{
+    background-color: whitesmoke;
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: static;
+    } 
+
+    .imageone{
+        display: flex;
+        margin-top: 30px;
+        background-color: transparent;
+        padding-left: 50px;
+    }
+
+    .col-sm-8 a{
+        font-size: 30px;
+        color: black;
+    }
+
+    .main-text{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card-request{
+        padding-left: 500px;
+        justify-content: center;
+        align-items: center;
+
+    }
