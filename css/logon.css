@@ -49,3 +49,6 @@ body {
     transform: translate(-40% -50%);
 }
 
+.login-box a{
+    color: black;
+}
