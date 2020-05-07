@@ -40,3 +40,9 @@ body {
         align-items: center;
 
     }
+
+    .list-group{
+        padding-left: 150px;
+        padding-right: 150px;
+        padding-bottom: 100px;
+    }
